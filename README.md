@@ -43,6 +43,7 @@ Thanks!
 - [SilentFlame](https://github.com/SilentFlame)
 - [justineldracher](https://github.com/justineldracher)
 - [darkwizz](https://github.com/darkwizz)
+- [aman97kalra](https://github.com/aman97kalra)
 - [joycedfan](https://github.com/joycedfan)
 - [manuelmdn](https://github.com/manuelmdn)
 - [igcigc](https://github.com/igcigc)
