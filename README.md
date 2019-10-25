@@ -67,6 +67,7 @@ Thanks!
 - [sarsiz](https://github.com/sarsiz)
 - [takidelfin](https://github.com/takidelfin)
 - [vaibsharma](https://github.com/vaibsharma)
+- [aman97kalra](https://github.com/aman97kalra)
 - [t-shirt](https://github.com/t-shirt)
 - [stevotennis](https://github.com/stevotennis)
 - [sksameer](https://github.com/sksameer)
